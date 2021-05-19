@@ -1,5 +1,5 @@
 # CS419-RecommenderSystem
-Recommender System implemented in Python by implementing mathematical models like User Based Similarity Model, Item Based Similarity Model, Statistical Baseline Model &amp; Gradient Descent Baseline Model
+Desptop Application to experiment Recommender System built using JavaFx for implementing mathematical models like User Based Similarity Model, Item Based Similarity Model, Statistical Baseline Model &amp; Gradient Descent Baseline Model
 
 ## Goals Of The Project:
 <p>The primary goal of this project is to estimate the ratings on 2 DataSets: MovieLens and Yelp. The secondary goal is to compare different methodologies for this regression project.</p>
